@@ -1,0 +1,8 @@
+Flask
+ultralytics
+torch
+opencv-python
+numpy
+filterpy
+lap
+gunicorn
